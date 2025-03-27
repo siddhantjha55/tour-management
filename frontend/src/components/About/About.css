@@ -1,0 +1,142 @@
+.about-section {
+  padding: 4rem 1rem;
+}
+
+.about-video video {
+  width: 100%;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.about-content {
+  padding: 1rem;
+}
+
+.section-title {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: var(--primary-color);
+  text-align: center;
+}
+
+.section-description {
+  margin: 1rem 0;
+  font-size: 1.1rem;
+  color: var(--text-color);
+  line-height: 1.8;
+  text-align: justify;
+}
+
+.services-section {
+  margin-top: 4rem;
+  text-align: center;
+}
+
+.service-item {
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.service-icon {
+  font-size: 2.5rem;
+  color: var(--secondary-color);
+  margin-bottom: 1rem;
+  transition: transform 0.3s ease;
+}
+
+.service-icon:hover {
+  transform: scale(1.2);
+}
+
+.service-item h5 {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: var(--heading-color);
+}
+
+.service-item p {
+  font-size: 1rem;
+  color: var(--text-color);
+}
+
+.why-choose-us {
+  background: var(--bg-light);
+  padding: 4rem 1rem;
+  margin-top: 4rem;
+}
+
+.feature-item {
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.feature-icon {
+  font-size: 2.5rem;
+  color: var(--primary-color);
+  margin-bottom: 1rem;
+  transition: transform 0.3s ease;
+}
+
+.feature-icon:hover {
+  transform: rotate(10deg);
+}
+
+.feature-item h5 {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: var(--heading-color);
+}
+
+.feature-item p {
+  font-size: 1rem;
+  color: var(--text-color);
+}
+
+/* Responsive Design */
+@media only screen and (max-width: 992px) {
+  .section-title {
+    font-size: 2rem;
+  }
+
+  .section-description {
+    font-size: 1rem;
+  }
+
+  .service-icon,
+  .feature-icon {
+    font-size: 2rem;
+  }
+
+  h4 {
+    font-size: 1.1rem;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .about-video video {
+    margin-bottom: 2rem;
+  }
+
+  .services-section {
+    margin-top: 2rem;
+  }
+
+  .why-choose-us {
+    padding: 3rem 1rem;
+  }
+}
+
+@media only screen and (max-width: 576px) {
+  .about-section {
+    padding: 2rem 1rem;
+  }
+
+  .section-title {
+    font-size: 1.8rem;
+  }
+
+  .service-item h5,
+  .feature-item h5 {
+    font-size: 1rem;
+  }
+}

@@ -1,0 +1,159 @@
+[
+  {
+    "title": "Mt. Everest",
+    "city": "SoluKhumbu District",
+    "address": "Lukla, SoluKhumbu District, https://goo.gl/maps/q78FPY4jCJ92",
+    "distance": 160 ,
+    "price": 11400.00,
+    "maxGroupSize": 10,
+    "desc": "Itinerary: Day 1: Arrival in Lukla; Day 2-8: Trek through Phakding, Namche Bazaar, Tengboche, Dingboche, and Gorak Shep to Base Camp. Ticket: No specific entry fee; permits (TIMS and Sagarmatha National Park entry) are required, costing around $50. Hotels: Yeti Mountain Home in Lukla, Everest View Hotel in Namche Bazaar. Travel Cost: Plane - $180 one way from Kathmandu to Lukla; Road - $20 by bus to Jiri, then trek. Best Season: April-May and October-November for clear skies and moderate weather. Recommended: Daytime for the stunning views of Everest and surrounding peaks.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img01.jpg",
+    "featured": true
+  },
+  {
+    "title": "Mt. Annapurna",
+    "city": "Annapurna Conservation Area",
+    "address": "Nayapul, Annapurna Conservation Area, https://goo.gl/maps/dV7ueN6RQGP2",
+    "distance": 200 ,
+    "price": 1000.00,
+    "maxGroupSize": 8,
+    "desc": "Itinerary: Day 1: Drive to Nayapul; Day 2-7: Trek through Tikhedhunga, Ghorepani, Tadapani, and finally Annapurna Base Camp. Ticket: Entry permit for the Annapurna Conservation Area ($20). Hotels: Gurung Lodge in Ghorepani, Himalayan Lodge in Tadapani. Travel Cost: Plane - $120 one way to Pokhara; Road - $10 by bus to Pokhara. Best Season: March-May and September-November for vibrant trails and clear weather. Recommended: Daytime for panoramic mountain views.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img03.jpg",
+    "featured": true
+  },
+  {
+    "title": "Rara Lake",
+    "city": "Mugu District",
+    "address": "Talcha Airport, Mugu District, https://goo.gl/maps/dGxSPnyTTqp",
+    "distance": 370,
+    "price": 2000.00,
+    "maxGroupSize": 8,
+    "desc": "Itinerary: Day 1: Flight to Talcha Airport; Day 2-3: Trek to Rara Lake. Ticket: Entry permit for Rara National Park ($15). Hotels: Rara Resort in Mugu. Travel Cost: Plane - $150 one way to Talcha; Road - $25 by bus to the nearest town, then trek. Best Season: April-May and September-October for pleasant weather and clear skies. Recommended: Daytime for the stunning blue lake views surrounded by lush hills.",
+    "reviews": [],
+    
+    "photo": "/tour-images/tour-img04.jpg",
+    "featured": true
+  },
+  {
+    "title": "Tilicho Lake",
+    "city": "Manang District",
+    "address": "Chame, Manang District, https://goo.gl/maps/Qyz9GVczKfm",
+    "distance": 220 ,
+    "price": 2000.00,
+    "maxGroupSize": 8,
+    "desc": "Itinerary: Day 1: Drive to Chame; Day 2-5: Trek through Pisang and Manang to Tilicho Lake. Ticket: Annapurna Conservation Area permit ($20). Hotels: Tilicho Base Camp Lodge, Hotel Manang in Manang. Travel Cost: Plane - $120 one way to Pokhara; Road - $10 by bus to Pokhara, then trek. Best Season: April-May and September-October for a snow-free trek and clear skies. Recommended: Daytime for the pristine turquoise lake views.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img06.jpg",
+    "featured": true
+  },
+   {
+    "title": "Mustang",
+    "city": "Upper Mustang",
+    "address": "Lo Manthang, Upper Mustang, https://goo.gl/maps/UQkrHFD3SWR2",
+    "distance": 380 ,
+    "price": 1500.00,
+    "maxGroupSize": 10,
+    "desc": "Itinerary: Day 1: Drive or fly to Jomsom; Day 2-6: Trek through Kagbeni, Muktinath, and Lo Manthang. Ticket: Restricted Area Permit ($500 for 10 days). Hotels: Hotel Majesty in Jomsom, Royal Mustang Resort in Lo Manthang. Travel Cost: Plane - $120 one way to Jomsom; Road - $35 by jeep or bus to Jomsom. Best Season: May-August for unique landscapes and festivals. Recommended: Daytime for vivid desert-like terrain and cultural sights.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img09.jpg",
+    "featured": true
+  },
+  {
+    "title": "Pokhara",
+    "city": "Gandaki Pradesh",
+    "address": "Pokhara, Gandaki Pradesh, https://goo.gl/maps/Uz7FeG2xAWt",
+    "distance": 200 ,
+    "price": 2000.00,
+    "maxGroupSize": 8,
+    "desc": "Itinerary: Day 1: Explore Phewa Lake, Gupteshwor Cave; Day 2: Sarangkot sunrise, Devi’s Fall, and International Mountain Museum. Ticket: No entry fee for lakeside; cave and museum entry fees are minimal (approx. $5). Hotels: Hotel Fewa, Pokhara View Garden. Travel Cost: Plane - $100 one way; Road - $10 by bus to Pokhara. Best Season: Year-round, especially October-November and March-May. Recommended: Sunrise at Sarangkot and evening lakeside for serene reflections.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img07.jpg",
+    "featured": true
+  },
+  {
+    "title": "Bouddhanath",
+    "city": "Kathmandu Valley",
+    "address": "Bouddhanath Stupa, Kathmandu Valley, https://goo.gl/maps/qHjZB8JmxF12",
+    "distance": 4 ,
+    "price": 99.00,
+    "maxGroupSize": 8,
+    "desc": "Itinerary: Spend 1-2 hours exploring the stupa, surrounding monasteries, and Tibetan shops. Ticket: $2 per person for entry. Hotels: Shambhala Hotel, Hotel Tara. Travel Cost: Road - $5 by taxi or local bus. Best Season: Year-round. Recommended: Evening for mesmerizing views of the stupa lit up.",
+    
+    "reviews": [],
+    "photo": "/tour-images/tour-img14.jpg",
+    "featured": true
+  },
+  {
+    "title": "Lumbini",
+    "city": "Rupandehi District",
+    "address": "Lumbini, Rupandehi District, https://goo.gl/maps/Ge2h5WsDjUF2",
+    "distance": 260 ,
+    "price": 1999.00,
+    "maxGroupSize": 8,
+    "desc": "Itinerary: Day 1: Explore Mayadevi Temple and Monastic Zone. Ticket: $2 for the Sacred Garden entry. Hotels: Lumbini Garden Resort, Hotel Buddha. Travel Cost: Plane - $150 one way to Bhairahawa; Road - $15 by bus. Best Season: October-March for cool and comfortable weather. Recommended: Daytime for exploring the tranquil spiritual gardens.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img16.jpg",
+    "featured": true
+  },
+  
+  {
+    "title": "Patan Durbar Square",
+    "city": "Kathmandu Valley",
+    "address": "Patan Durbar Square, Kathmandu Valley, https://goo.gl/maps/W3s94RuTn8t",
+    "distance": 5 ,
+    "price": 99.00,
+    "maxGroupSize": 8,
+    "desc": "Itinerary: Spend 2-3 hours exploring temples, courtyards, and the Patan Museum. Ticket: $10 per person for entry. Hotels: Hotel Heritage, Patan Guest House. Travel Cost: Road - $3 by taxi or local bus. Best Season: Year-round. Recommended: Evening for vibrant cultural ambiance with illuminated architecture.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img18.jpg",
+    "featured": true
+  },
+   {
+    "title": "Chitwan National Park",
+    "city": "Chitwan District",
+    "address": "Sauraha, Chitwan, https://goo.gl/maps/1v2MXCrxt2r",
+    "distance": 150 ,
+    "price": 299.00,
+    "maxGroupSize": 10,
+    "desc": "Itinerary: Day 1: Arrival in Sauraha; Day 2-3: Jungle safari, canoe rides, and elephant bathing. Ticket: Entry fee of $15 per person. Hotels: Barahi Jungle Lodge, Jungle Safari Lodge. Travel Cost: Plane - $130 one way to Bharatpur; Road - $10 by bus to Sauraha. Best Season: October-March for ideal wildlife sightings. Recommended: Early morning for wildlife safari and evening for sunset over the grasslands.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img22.jpg",
+    "featured": true
+  },
+  {
+    "title": "Pashupatinath Temple",
+    "city": "Kathmandu Valley",
+    "address": "Pashupatinath Temple, Kathmandu Valley, https://goo.gl/maps/NFGHjx3CvCV2",
+    "distance": 5 ,
+    "price": 99.00,
+    "maxGroupSize": 8,
+    "desc": "Itinerary: Spend 2-3 hours exploring the temple complex and watching traditional rituals by the Bagmati River. Ticket: $10 per person for foreign visitors. Hotels: Hotel Nirvana, Pashupatinath Guest House. Travel Cost: Road - $3 by taxi or local bus. Best Season: Year-round. Recommended: Evening for witnessing the mesmerizing 'Aarti' ceremony.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img21.jpg",
+    "featured": true
+  },
+  {
+    "title": "Thamel",
+    "city": "Kathmandu Valley",
+    "address": "Thamel, Kathmandu Valley, https://goo.gl/maps/TX9jYo9qdAv",
+    "distance": 4 ,
+    "price": 1999.00,
+    "maxGroupSize": 8,
+    "desc": "Itinerary: Explore the vibrant streets of Thamel, bustling with shops, restaurants, and adventure gear. Ticket: No entry fee. Hotels: Hotel Yak & Yeti, The Sparkling Turtle. Travel Cost: Road - Easily accessible by taxi or walk. Best Season: Year-round. Recommended: Nighttime for lively ambiance with bustling streets and illuminated lights.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img24.jpg",
+    "featured": true
+  }
+]
